@@ -1,0 +1,3 @@
+[submodule "Rhinocraft-Addon"]
+	path = Rhinocraft-Addon
+	url = git@github.com:Rhinomcd/Rhinocraft-Addon.git
